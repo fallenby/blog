@@ -1,0 +1,5 @@
+baseURL = 'https://blog.allen.by/'
+languageCode = 'en-us'
+title = 'allen.by'
+favicon = '/img/dickbutt.ico'
+googleAnalytics = ""

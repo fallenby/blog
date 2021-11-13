@@ -1,0 +1,5 @@
+baseURL = 'https://blog.allen.by/'
+languageCode = 'en-us'
+title = 'allen.by'
+theme = 'hugo-theme-bootstrap'
+favicon = '/img/dickbutt.ico'

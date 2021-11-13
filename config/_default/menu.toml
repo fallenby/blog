@@ -1,0 +1,6 @@
+[[main]]
+  name = "Repository"
+  identifier = "Repository"
+  pre = '<i class="fab fa-fw fa-github"></i>'
+  url = "https://github.com/fallenby/blog"
+  weight = 99
